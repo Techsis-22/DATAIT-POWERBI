@@ -7,6 +7,7 @@ This project presents an interactive Power BI dashboard developed to analyse sal
 The dashboard transforms sales and collection data into business insights that can help management evaluate revenue performance, monitor profitability, identify collection risks, and understand the products and sales channels contributing to business results.
 
 ![](https://github.com/Techsis-22/DATAIT-POWERBI/blob/main/Screenshot%20(69).png?raw=true)
+![](https://github.com/Techsis-22/DATAIT-POWERBI/blob/main/Screenshot%20(70).png?raw=true)
 
 The project focuses on three major areas:
 
